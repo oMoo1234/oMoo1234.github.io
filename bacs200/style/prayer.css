@@ -1,0 +1,18 @@
+h1.prayer {
+    text-align: center;
+    color: white
+}
+
+p.jesus {
+    color: black;
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 200px;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: lightcyan;
+}
+
+div.div1 {
+    text-align: center;
+}
