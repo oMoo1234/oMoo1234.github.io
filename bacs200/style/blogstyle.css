@@ -1,5 +1,7 @@
-body {
-    background: Black;
+iframe {
+    height: 200px;
+    width: 300px;
+    margin: center;
 
 }
 
@@ -8,13 +10,28 @@ h1 {
     font-size: 50px;
 }
 
+img.img {
+    float: left;
+}
+
+div.division {
+
+    width: 600px;
+    display: flex;
+
+}
+
 h2.h2 {
     font-size: 20px;
 }
 
 p.p1 {
     font-family: sans-serif;
-    margin: 5px;
+    margin: 20px;
+    width: 400pxpx;
+    height: 100px;
+    text-align: center;
+
     background: Beige;
 
 
@@ -30,12 +47,15 @@ h6.h3 {
     text-align: center;
 }
 
-p.p2 {
-    float: right;
+div.li {
+    margin: auto;
+    height: 200px;
+    width: 300px;
 }
 
 h3.opv {
     font-size: 20px;
+    text-align: center;
 
 }
 
@@ -44,14 +64,16 @@ h3.oopv {
 }
 
 li.li {
-    text-align: center;
+
     background: Beige;
 }
 
 p.p4 {
     background: Beige;
+    text-align: center;
 }
 
 p.p5 {
     background: Beige;
+    
 }
