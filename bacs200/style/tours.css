@@ -1,0 +1,22 @@
+h1 {
+    color: indianred;
+    text-align: center;
+}
+
+body {
+    background: black;
+}
+
+div.div1 {
+    margin: auto;
+    width: 400px;
+    color: indianred;
+}
+
+div.div2 {
+    text-align: center;
+}
+
+div.div3 {
+    text-align: center;
+}
