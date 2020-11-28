@@ -1,0 +1,26 @@
+body {
+    background: black;
+    color: white;
+}
+
+div.div0 {
+    margin: auto;
+    width: 750px;
+    height: 400px;
+
+}
+
+h1.top {
+    color: darkred;
+    text-align: center;
+
+}
+
+div.div1 {
+
+    float: left;
+    width: 200px;
+
+}
+img.img{
+}
